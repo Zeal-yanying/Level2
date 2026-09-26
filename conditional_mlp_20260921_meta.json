@@ -1,0 +1,11 @@
+{
+  "model": "conditional_mlp",
+  "seed": 20260921,
+  "best_epoch": 20,
+  "epochs": 20,
+  "best_validation_pinball_bps": 0.528114914894104,
+  "parameters": 30957,
+  "branch_features": 68,
+  "scale": 0.2781136929988861,
+  "seconds": 13.5
+}

@@ -1,0 +1,11 @@
+{
+  "model": "deeponet",
+  "seed": 20260923,
+  "best_epoch": 14,
+  "epochs": 19,
+  "best_validation_pinball_bps": 0.5086321830749512,
+  "parameters": 30849,
+  "branch_features": 68,
+  "scale": 0.2781136929988861,
+  "seconds": 6.078000000008615
+}

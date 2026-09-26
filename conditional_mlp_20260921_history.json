@@ -1,0 +1,102 @@
+[
+  {
+    "epoch": 1,
+    "train_objective": 0.21397748735028937,
+    "validation_pinball_bps": 0.580493688583374
+  },
+  {
+    "epoch": 2,
+    "train_objective": 0.21076744750680218,
+    "validation_pinball_bps": 0.5753092169761658
+  },
+  {
+    "epoch": 3,
+    "train_objective": 0.20740001283079867,
+    "validation_pinball_bps": 0.5595368146896362
+  },
+  {
+    "epoch": 4,
+    "train_objective": 0.2032439790008853,
+    "validation_pinball_bps": 0.5502449870109558
+  },
+  {
+    "epoch": 5,
+    "train_objective": 0.19994612561495087,
+    "validation_pinball_bps": 0.5520526766777039
+  },
+  {
+    "epoch": 6,
+    "train_objective": 0.1990858104683458,
+    "validation_pinball_bps": 0.544995903968811
+  },
+  {
+    "epoch": 7,
+    "train_objective": 0.19838179423492736,
+    "validation_pinball_bps": 0.5438339114189148
+  },
+  {
+    "epoch": 8,
+    "train_objective": 0.19710515082933147,
+    "validation_pinball_bps": 0.5413147807121277
+  },
+  {
+    "epoch": 9,
+    "train_objective": 0.1969571223407089,
+    "validation_pinball_bps": 0.5387496948242188
+  },
+  {
+    "epoch": 10,
+    "train_objective": 0.19671208568997656,
+    "validation_pinball_bps": 0.5411188006401062
+  },
+  {
+    "epoch": 11,
+    "train_objective": 0.19567883872184355,
+    "validation_pinball_bps": 0.5451091527938843
+  },
+  {
+    "epoch": 12,
+    "train_objective": 0.19535736875618298,
+    "validation_pinball_bps": 0.5371066331863403
+  },
+  {
+    "epoch": 13,
+    "train_objective": 0.19407612695521773,
+    "validation_pinball_bps": 0.5368780493736267
+  },
+  {
+    "epoch": 14,
+    "train_objective": 0.19333381117640805,
+    "validation_pinball_bps": 0.5364446043968201
+  },
+  {
+    "epoch": 15,
+    "train_objective": 0.19254643876312136,
+    "validation_pinball_bps": 0.5312158465385437
+  },
+  {
+    "epoch": 16,
+    "train_objective": 0.19259931171738165,
+    "validation_pinball_bps": 0.5319970846176147
+  },
+  {
+    "epoch": 17,
+    "train_objective": 0.1929600409952455,
+    "validation_pinball_bps": 0.5356090664863586
+  },
+  {
+    "epoch": 18,
+    "train_objective": 0.19235250586378677,
+    "validation_pinball_bps": 0.5314328074455261
+  },
+  {
+    "epoch": 19,
+    "train_objective": 0.1908954407012404,
+    "validation_pinball_bps": 0.528197705745697
+  },
+  {
+    "epoch": 20,
+    "train_objective": 0.1898161443437785,
+    "validation_pinball_bps": 0.528114914894104
+  }
+]
