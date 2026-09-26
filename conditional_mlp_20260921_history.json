@@ -1,102 +1,102 @@
 [
   {
     "epoch": 1,
-    "train_objective": 0.23522601750952504,
-    "validation_pinball_bps": 0.2258080542087555
+    "train_objective": 0.3016759592026486,
+    "validation_pinball_bps": 0.4103313982486725
   },
   {
     "epoch": 2,
-    "train_objective": 0.22388164706681415,
-    "validation_pinball_bps": 0.2177526205778122
+    "train_objective": 0.27508558634998664,
+    "validation_pinball_bps": 0.4001104533672333
   },
   {
     "epoch": 3,
-    "train_objective": 0.21479480322470562,
-    "validation_pinball_bps": 0.20702020823955536
+    "train_objective": 0.26714199193850796,
+    "validation_pinball_bps": 0.3881349265575409
   },
   {
     "epoch": 4,
-    "train_objective": 0.201401780059759,
-    "validation_pinball_bps": 0.19377513229846954
+    "train_objective": 0.25585497303983795,
+    "validation_pinball_bps": 0.36631426215171814
   },
   {
     "epoch": 5,
-    "train_objective": 0.1915958922604643,
-    "validation_pinball_bps": 0.18836922943592072
+    "train_objective": 0.23809400505457,
+    "validation_pinball_bps": 0.3376091718673706
   },
   {
     "epoch": 6,
-    "train_objective": 0.18684589168572696,
-    "validation_pinball_bps": 0.18614688515663147
+    "train_objective": 0.22601102413968213,
+    "validation_pinball_bps": 0.32770633697509766
   },
   {
     "epoch": 7,
-    "train_objective": 0.18315552062831228,
-    "validation_pinball_bps": 0.18209964036941528
+    "train_objective": 0.22179739833228349,
+    "validation_pinball_bps": 0.32478657364845276
   },
   {
     "epoch": 8,
-    "train_objective": 0.17972067859785917,
-    "validation_pinball_bps": 0.1773444414138794
+    "train_objective": 0.21975018204788493,
+    "validation_pinball_bps": 0.3245859742164612
   },
   {
     "epoch": 9,
-    "train_objective": 0.17650743064333635,
-    "validation_pinball_bps": 0.17756111919879913
+    "train_objective": 0.21862521477058605,
+    "validation_pinball_bps": 0.3230222463607788
   },
   {
     "epoch": 10,
-    "train_objective": 0.1747491189362333,
-    "validation_pinball_bps": 0.17396079003810883
+    "train_objective": 0.2175566796769273,
+    "validation_pinball_bps": 0.32150715589523315
   },
   {
     "epoch": 11,
-    "train_objective": 0.17327482998601543,
-    "validation_pinball_bps": 0.17276383936405182
+    "train_objective": 0.21733593376440077,
+    "validation_pinball_bps": 0.3209286034107208
   },
   {
     "epoch": 12,
-    "train_objective": 0.17213671926241378,
-    "validation_pinball_bps": 0.17249777913093567
+    "train_objective": 0.21619655026688317,
+    "validation_pinball_bps": 0.31901440024375916
   },
   {
     "epoch": 13,
-    "train_objective": 0.17095998614837532,
-    "validation_pinball_bps": 0.17238549888134003
+    "train_objective": 0.21549408249781676,
+    "validation_pinball_bps": 0.32180163264274597
   },
   {
     "epoch": 14,
-    "train_objective": 0.16974927517247748,
-    "validation_pinball_bps": 0.16997528076171875
+    "train_objective": 0.21521854011227584,
+    "validation_pinball_bps": 0.31760403513908386
   },
   {
     "epoch": 15,
-    "train_objective": 0.16830877751199544,
-    "validation_pinball_bps": 0.17007850110530853
+    "train_objective": 0.2148383609433253,
+    "validation_pinball_bps": 0.31738701462745667
   },
   {
     "epoch": 16,
-    "train_objective": 0.1672764180275062,
-    "validation_pinball_bps": 0.16741907596588135
+    "train_objective": 0.21450301196045388,
+    "validation_pinball_bps": 0.3166534900665283
   },
   {
     "epoch": 17,
-    "train_objective": 0.16588958114666716,
-    "validation_pinball_bps": 0.166708841919899
+    "train_objective": 0.21404585157247016,
+    "validation_pinball_bps": 0.3161877393722534
   },
   {
     "epoch": 18,
-    "train_objective": 0.16516008821275885,
-    "validation_pinball_bps": 0.16662760078907013
+    "train_objective": 0.21401446846199862,
+    "validation_pinball_bps": 0.3178195655345917
   },
   {
     "epoch": 19,
-    "train_objective": 0.164247415834257,
-    "validation_pinball_bps": 0.16569535434246063
+    "train_objective": 0.21480839089013076,
+    "validation_pinball_bps": 0.32515034079551697
   },
   {
     "epoch": 20,
-    "train_objective": 0.16414382814144413,
-    "validation_pinball_bps": 0.16524378955364227
+    "train_objective": 0.214581552476442,
+    "validation_pinball_bps": 0.3160466253757477
   }
 ]
