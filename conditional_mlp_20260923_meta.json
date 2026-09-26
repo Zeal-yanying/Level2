@@ -3,9 +3,9 @@
   "seed": 20260923,
   "best_epoch": 18,
   "epochs": 20,
-  "best_validation_pinball_bps": 0.5291279554367065,
+  "best_validation_pinball_bps": 0.5239869952201843,
   "parameters": 30957,
   "branch_features": 68,
-  "scale": 0.2781136929988861,
+  "scale": 0.27291449904441833,
   "seconds": 13.202999999979511
 }

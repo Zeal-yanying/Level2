@@ -4,65 +4,65 @@
     "seed": 20260921,
     "best_epoch": 20,
     "epochs": 20,
-    "best_validation_pinball_bps": 0.528114914894104,
+    "best_validation_pinball_bps": 0.5234919786453247,
     "parameters": 30957,
     "branch_features": 68,
-    "scale": 0.2781136929988861,
-    "seconds": 13.5
+    "scale": 0.27291449904441833,
+    "seconds": 13.812999999994645
   },
   {
     "model": "conditional_mlp",
     "seed": 20260922,
     "best_epoch": 19,
     "epochs": 20,
-    "best_validation_pinball_bps": 0.5265481472015381,
+    "best_validation_pinball_bps": 0.5201770663261414,
     "parameters": 30957,
     "branch_features": 68,
-    "scale": 0.2781136929988861,
-    "seconds": 13.28200000000652
+    "scale": 0.27291449904441833,
+    "seconds": 13.25
   },
   {
     "model": "conditional_mlp",
     "seed": 20260923,
     "best_epoch": 18,
     "epochs": 20,
-    "best_validation_pinball_bps": 0.5291279554367065,
+    "best_validation_pinball_bps": 0.5239869952201843,
     "parameters": 30957,
     "branch_features": 68,
-    "scale": 0.2781136929988861,
+    "scale": 0.27291449904441833,
     "seconds": 13.202999999979511
   },
   {
     "model": "deeponet",
     "seed": 20260921,
-    "best_epoch": 20,
-    "epochs": 20,
-    "best_validation_pinball_bps": 0.5073477029800415,
+    "best_epoch": 14,
+    "epochs": 19,
+    "best_validation_pinball_bps": 0.5060291290283203,
     "parameters": 30849,
     "branch_features": 68,
-    "scale": 0.2781136929988861,
-    "seconds": 6.344000000011874
+    "scale": 0.27291449904441833,
+    "seconds": 6.046999999991385
   },
   {
     "model": "deeponet",
     "seed": 20260922,
-    "best_epoch": 19,
-    "epochs": 20,
-    "best_validation_pinball_bps": 0.5065794587135315,
+    "best_epoch": 9,
+    "epochs": 14,
+    "best_validation_pinball_bps": 0.5078585743904114,
     "parameters": 30849,
     "branch_features": 68,
-    "scale": 0.2781136929988861,
-    "seconds": 6.437000000005355
+    "scale": 0.27291449904441833,
+    "seconds": 4.657000000006519
   },
   {
     "model": "deeponet",
     "seed": 20260923,
     "best_epoch": 14,
     "epochs": 19,
-    "best_validation_pinball_bps": 0.5086321830749512,
+    "best_validation_pinball_bps": 0.5071340799331665,
     "parameters": 30849,
     "branch_features": 68,
-    "scale": 0.2781136929988861,
-    "seconds": 6.078000000008615
+    "scale": 0.27291449904441833,
+    "seconds": 6.0460000000020955
   }
 ]

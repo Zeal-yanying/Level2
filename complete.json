@@ -1,6 +1,6 @@
 {
   "symbol": "000001.SZ",
-  "target": "depth",
+  "target": "liquidity",
   "task": "unseen_q",
   "train_groups": 25642,
   "validation_groups": 9560,
