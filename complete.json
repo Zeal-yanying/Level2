@@ -1,18 +1,18 @@
 {
-  "symbol": "000001.SZ",
-  "target": "liquidity",
+  "symbol": "300750.SZ",
+  "target": "depth",
   "task": "unseen_q",
-  "train_groups": 25642,
-  "validation_groups": 9560,
-  "test_groups": 7798,
+  "train_groups": 25868,
+  "validation_groups": 9733,
+  "test_groups": 7885,
   "seeds": [
     20260921,
     20260922,
     20260923
   ],
   "q_shares": [
-    234300,
-    937500,
-    1875000
+    200,
+    800,
+    1700
   ]
 }
